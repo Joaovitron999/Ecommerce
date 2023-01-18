@@ -1,0 +1,22 @@
+.header{
+  display: flex;
+  width: 100vw;
+  height: 8rem;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons{
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+}
+
+.buttons a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 0.5rem;
+  font-family: 'Poppins';
+}
+
